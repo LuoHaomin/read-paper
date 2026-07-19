@@ -34,7 +34,6 @@ read-paper/
 │   ├── entry-theory.md     # 理论类条目模板 + 范例
 │   ├── entry-method.md     # 实验方法类条目模板 + 范例
 │   └── overview-template.md
-├── example/                # 示例产物：一篇量子电路论文的完整拆解
 ├── README.md
 └── LICENSE
 ```

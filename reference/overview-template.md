@@ -60,7 +60,7 @@ flowchart TD
 
 ## 建议阅读顺序
 
-<给读者一条路：先读哪个条目、为什么。例如"先读 [Theorem1.md](Theorem1.md) 看全局，再按 Lemma S1→S3→S6 的顺序补证明链"。>
+**第 0 步固定是 [导读.md](导读.md)**（30 分钟读懂核心思路，见 guide-template.md）；之后给读者一条路：先读哪个条目、为什么。例如"先读 [Theorem1.md](Theorem1.md) 看全局，再按 Lemma S1→S3→S6 的顺序补证明链"。
 ````
 
 ---
